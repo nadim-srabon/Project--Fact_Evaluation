@@ -8,6 +8,8 @@ int main() {
     int facultyCount = 0;
     int facultyCapacity = INITIAL_CAPACITY;
 
+    printf("Hi My name is Nadim Srabon");
+
     if (!readFacultyData(filename, &faculties, &facultyCount, &facultyCapacity)) {
         printf("Error reading faculty data file.\n");
         return 1;
