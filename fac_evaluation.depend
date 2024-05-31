@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1716535834 source:e:\faculty evaluation module\fac_evaluation\main.c
+	<stdio.h>
+	<stdlib.h>
+	"faculty_evaluation.h"
+
+1716542032 e:\faculty evaluation module\fac_evaluation\faculty_evaluation.h
+
+1716535773 source:e:\faculty evaluation module\fac_evaluation\faculty_evaluation.c
+	"faculty_evaluation.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

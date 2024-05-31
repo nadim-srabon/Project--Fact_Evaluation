@@ -1,0 +1,96 @@
+Faculty Code: DSU, Section: 2
+Interaction with Students: 2
+Availability outside of class: 3
+Punctuality: 2
+Use of resources: 1
+Encouragement of student Participation: 4
+Feedback and Assessment: 3
+Communication Skills: 2
+Overall Performance: 4
+Average Rating: 2.63
+Overall Grade: C
+
+Faculty Code: DSU, Section: 2
+Interaction with Students: 2
+Availability outside of class: 2
+Punctuality: 2
+Use of resources: 2
+Encouragement of student Participation: 2
+Feedback and Assessment: 2
+Communication Skills: 2
+Overall Performance: 2
+Average Rating: 2.00
+Overall Grade: D
+
+Faculty Code: DSU, Section: 2
+Interaction with Students: 3
+Availability outside of class: 3
+Punctuality: 3
+Use of resources: 3
+Encouragement of student Participation: 3
+Feedback and Assessment: 3
+Communication Skills: 3
+Overall Performance: 3
+Average Rating: 3.00
+Overall Grade: C
+
+Faculty Code: DSU, Section: 2
+Interaction with Students: 3
+Availability outside of class: 3
+Punctuality: 3
+Use of resources: 3
+Encouragement of student Participation: 3
+Feedback and Assessment: 3
+Communication Skills: 3
+Overall Performance: 3
+Average Rating: 3.00
+Overall Grade: C
+
+Faculty Code: DSU, Section: 2
+Interaction with Students: 3
+Availability outside of class: 3
+Punctuality: 3
+Use of resources: 3
+Encouragement of student Participation: 3
+Feedback and Assessment: 3
+Communication Skills: 3
+Overall Performance: 3
+Average Rating: 3.00
+Overall Grade: C
+
+Faculty Code: DSU, Section: 2
+Interaction with Students: 3
+Availability outside of class: 3
+Punctuality: 3
+Use of resources: 3
+Encouragement of student Participation: 3
+Feedback and Assessment: 3
+Communication Skills: 3
+Overall Performance: 3
+Average Rating: 3.00
+Overall Grade: C
+
+Faculty Code: DSU, Section: 2
+Interaction with Students: 5
+Availability outside of class: 5
+Punctuality: 5
+Use of resources: 5
+Encouragement of student Participation: 5
+Feedback and Assessment: 5
+Communication Skills: 5
+Overall Performance: 5
+Average Rating: 5.00
+Overall Grade: A
+
+Faculty Code: DSMU, Section: 8
+Interaction with Students: 3
+Availability outside of class: 3
+Punctuality: 3
+Use of resources: 3
+Encouragement of student Participation: 3
+Feedback and Assessment: 3
+Communication Skills: 3
+Overall Performance: 1
+Average Rating: 2.75
+Overall Grade: C
+
